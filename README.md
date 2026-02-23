@@ -76,5 +76,5 @@ Atuar nas áreas de desenvolvimento de software, automação, microcontroladores
 ## 📫 Contato
 
 - 📧 Email: miguelsantos51346@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/miguel-santos  
+- 💼 LinkedIn:  https://www.linkedin.com/in/miguel-santos-505959257
 - 🌐 GitHub: https://github.com/MiguelSantos1910
